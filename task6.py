@@ -8,3 +8,6 @@ class Admin(User):
 
 class Worker(User):
     pass
+
+class Author(User):
+    pass
