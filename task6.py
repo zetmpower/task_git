@@ -5,3 +5,6 @@ class User:
 
 class Admin(User):
     pass
+
+class Worker(User):
+    pass
